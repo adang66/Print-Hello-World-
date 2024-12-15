@@ -1,3 +1,13 @@
+## **CART Regression Model**
+
+**Group Name** : Print ("Hello World")
+
+**Group Members** : Arpit Dang, Devraj Raghuvanshi, Matthew Dall'Asen, Varun Satheesh
+
+**GitHub Link**: https://github.com/adang66/Print-Hello-World-
+
+**Date**: December 15th, 2024
+
 The objective behind the Classification and Regression Tree (CART) algorithm is to iteratively select features within the feature space, and splitting it into a binary decsion, based on a determined split point, to predict the target variable. This process is repeated for each resulting subset until a stopping criterion is met, such as the depth of the tree, number of epochs and/or inability to further improve homogeneity. This report will leverage the regression tree of CART, where the objective is to predict the value of a new data point by taking the average of the target variable values in the leaf node corresponding to the data point.  
 
 Decision trees are widely used for machine learning problems due to their ability to handle non-linearity, making them well-suited for modeling complex relationships between features and the target variable. Additionally, decision trees inherently perform feature selection, focusing splits on relevant features and reducing the risk of overfitting to irrelevant variables. Finally, their interpretability provides a clear and easy-to-understand decision paths that explain their predictions.
